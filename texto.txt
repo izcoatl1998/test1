@@ -1,2 +1,6 @@
 Mi nombres es: Rivas Alejandro
+<<<<<<< HEAD
 estudiante
+=======
+Tecnologico de colima #23
+>>>>>>> address
